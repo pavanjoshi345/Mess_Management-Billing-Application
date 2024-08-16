@@ -590,10 +590,6 @@ public class Client_Application {
 			 System.out.println("\tTotal Remaining Amount of This Month is:"+(amt-add1)+"\n");
 			System.out.println("---------------------------------------------------------------------------------");
 			   break;
-		
-		 case 9:
-			   
-			   break;
 			 
 		 case 10:
 			 System.out.println("!..............YOUR ARE EXITED FROM THIS APPLICATION...................");
